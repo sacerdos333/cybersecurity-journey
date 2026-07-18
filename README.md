@@ -42,11 +42,44 @@ Today, I am returning with a clear plan, a structured learning path, and a commi
 - Began planning a structured return to cybersecurity training and certification preparation.
 
 ### 2026
+
 - Committed to a structured cybersecurity career transition
 - Enrolled in DSDT's Cybersecurity Professional Program
 - Began preparation for Network+, Security+, and CySA+
 - Built a professional GitHub cybersecurity portfolio
+- Completed IBM SkillsBuild training in generative AI, AI agents, prompt engineering, and Retrieval-Augmented Generation
+- Earned verified IBM SkillsBuild digital credentials through Credly
 - Established a long-term cybersecurity roadmap
+  
+## AI and Emerging Technology Training
+
+As part of my cybersecurity career development, I am building practical knowledge in generative AI, AI agents, prompt engineering, responsible AI, and Retrieval-Augmented Generation through IBM SkillsBuild.
+
+This training strengthens my understanding of how artificial intelligence can support cybersecurity analysis, automation, knowledge retrieval, security operations, and professional technical workflows. It also reinforces the importance of privacy, security, ethics, bias awareness, access control, human oversight, and validation when AI-enabled systems are deployed.
+
+### IBM SkillsBuild Learning Records
+
+#### Applied AI Agents, Chatbots & RAG
+
+Training in AI agents, multiagent systems, document-based and multimodal Retrieval-Augmented Generation, IBM Granite, IBM watsonx, AI workflow automation, and RAG output evaluation.
+
+**Verified credentials:**
+
+- Make Agentic AI Work for You
+- Retrieval-Augmented Generation for Enhanced AI Outputs
+
+[View course learning record](credentials/ibm-skillsbuild/applied-ai-agents-chatbots-rag/README.md)
+
+#### Generative AI and AI Agent
+
+Training in generative AI fundamentals, large language models, prompt engineering, responsible AI, IBM AI Risk Atlas, IBM Granite, and AI-agent development using IBM watsonx.ai.
+
+**Verified credentials:**
+
+- Getting Started with Generative AI
+- Building an AI Agent
+
+[View course learning record](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/README.md)
 
 ### Future Goals
 - Earn Network+
