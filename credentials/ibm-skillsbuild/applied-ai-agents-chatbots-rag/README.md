@@ -49,7 +49,11 @@ The credentials below were issued by **IBM SkillsBuild** through **Credly**. Eac
 
 ## Make Agentic AI Work for You
 
-[![Make Agentic AI Work for You](badges/make-agentic-ai-work-for-you.png)](https://www.credly.com/earner/earned/badge/f883b8b1-9582-4727-ad94-10e124252e2a)
+<p align="center">
+  <img src="badges/make-agentic-ai-work-for-you.png"
+       alt="Make Agentic AI Work for You"
+       width="300">
+</p>
 
 **Issuing organization:** IBM SkillsBuild  
 **Credential platform:** Credly  
@@ -87,7 +91,11 @@ The simulation-based exercises helped me see how agentic AI and RAG can improve 
 
 ## Retrieval-Augmented Generation for Enhanced AI Outputs
 
-[![Retrieval-Augmented Generation for Enhanced AI Outputs](badges/retrieval-augmented-generation-for-enhanced-ai-outputs.png)](https://www.credly.com/earner/earned/badge/9a6e3224-e064-4079-b140-741ecc080370)
+<p align="center">
+  <img src="badges/retrieval-augmented-generation-for-enhanced-ai-outputs.png"
+       alt="Retrieval-Augmented Generation for Enhanced AI Outputs"
+       width="300">
+</p>
 
 **Issuing organization:** IBM SkillsBuild  
 **Credential platform:** Credly  
@@ -132,7 +140,11 @@ The following digital stickers recognize the completion of individual learning m
 
 ## Unleashing the Power of AI Agents
 
-![Unleashing the Power of AI Agents](stickers/unleashing-the-power-of-ai-agents.png)
+<p align="center">
+  <img src="stickers/unleashing-the-power-of-ai-agents.png"
+       alt="Unleashing the Power of AI Agents"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** June 27, 2026  
@@ -154,7 +166,11 @@ I learned how AI agents can receive goals, process information, make decisions, 
 
 ## Introduction to Retrieval-Augmented Generation
 
-![Introduction to Retrieval-Augmented Generation](stickers/introduction-to-retrieval-augmented-generation.png)
+<p align="center">
+  <img src="stickers/unleashing-the-power-of-ai-agents.png"
+       alt="Introduction to Retrieval-Augmented Generation"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** June 29, 2026  
@@ -176,7 +192,11 @@ I learned how this approach can improve relevance, reduce dependence on the mode
 
 ## The Rise of Multiagent Systems
 
-![The Rise of Multiagent Systems](stickers/the-rise-of-multiagent-systems.png)
+<p align="center">
+  <img src="stickers/the-rise-of-multiagent-systems.png"
+       alt="The Rise of Multiagent Systems"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** July 2, 2026  
@@ -198,7 +218,11 @@ I learned how multiagent systems can address complex problems by assigning speci
 
 ## AI's New Superpower: Multimodal Retrieval-Augmented Generation
 
-![AI's New Superpower: Multimodal Retrieval-Augmented Generation](stickers/ais-new-superpower-multimodal-rag.png)
+<p align="center">
+  <img src="stickers/ais-new-superpower-multimodal-rag.png"
+       alt="AI's New Superpower: Multimodal Retrieval-Augmented Generation"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** July 6, 2026  
