@@ -64,7 +64,11 @@ The credentials below were issued by **IBM SkillsBuild** through **Credly**. Eac
 
 ## Getting Started with Generative AI
 
-[![Getting Started with Generative AI](badges/getting-started-with-generative-ai.png)](https://www.credly.com/earner/earned/badge/6637cf5c-456e-4e84-8413-4c7dfc461c40)
+<p align="center">
+  <img src="badges/getting-started-with-generative-ai.png"
+       alt="Getting Started with Generative AI"
+       width="300">
+</p>
 
 **Issuing organization:** IBM SkillsBuild  
 **Credential platform:** Credly  
@@ -105,7 +109,11 @@ The IBM AI Risk Atlas introduced a structured way to research AI risks and possi
 
 ## Building an AI Agent
 
-[![Building an AI Agent](badges/building-an-ai-agent.png)](https://www.credly.com/earner/earned/badge/2dd90fc2-7388-4e72-a578-ba3e3efc812c)
+<p align="center">
+  <img src="badges/building-an-ai-agent.png"
+       alt="Building an AI Agent"
+       width="300">
+</p>
 
 **Issuing organization:** IBM SkillsBuild  
 **Credential platform:** Credly  
