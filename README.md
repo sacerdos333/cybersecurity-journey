@@ -10,7 +10,7 @@ This repository documents my transition into cybersecurity and serves as a recor
 
 My interest in cybersecurity began years ago through a fascination with technology, computers, and understanding how systems communicate and can be protected from threats.
 
-In 2022, I completed formal cybersecurity training through Intellectual Point, gaining exposure to Linux, Windows security, ethical hacking concepts, SIEM technologies, and virtual lab environments.
+My long-standing interest in cybersecurity became more focused in 2022 through formal training at Intellectual Point, where I completed intensive coursework covering CompTIA Security+, Certified Ethical Hacker, Splunk, Linux, Windows, and virtual lab environments.
 
 While my professional journey led me into data analysis and software development for a period of time, my interest in cybersecurity never disappeared.
 
