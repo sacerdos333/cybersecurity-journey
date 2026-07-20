@@ -168,3 +168,9 @@ Planned and developing projects include:
 ## Weekly Progress Log
 
 ## Lessons Learned
+
+---
+
+## Return to My GitHub Profile
+
+[View my main GitHub profile and complete portfolio](https://github.com/sacerdos333)
