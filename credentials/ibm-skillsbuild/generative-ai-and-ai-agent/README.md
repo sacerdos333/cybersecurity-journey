@@ -152,7 +152,11 @@ The following digital stickers recognize the completion of individual learning m
 
 ## Foundations in Generative AI
 
-![Foundations in Generative AI](stickers/foundations-in-generative-ai.png)
+<p align="center">
+  <img src="stickers/foundations-in-generative-ai.png"
+       alt="Foundations in Generative AI"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** July 1, 2026  
@@ -177,7 +181,11 @@ I also practiced improving results by refining prompts, adding context, clarifyi
 
 ## Ethical Considerations for Generative AI
 
-![Ethical Considerations for Generative AI](stickers/ethical-considerations-for-generative-ai.png)
+<p align="center">
+  <img src="stickers/ethical-considerations-for-generative-ai.png"
+       alt="Ethical Considerations for Generative AI"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** July 2, 2026  
@@ -201,7 +209,11 @@ These principles are directly relevant to cybersecurity because AI systems may p
 
 ## Introduction to Large Language Models
 
-![Introduction to Large Language Models](stickers/introduction-to-large-language-models.png)
+<p align="center">
+  <img src="stickers/introduction-to-large-language-models.png"
+       alt="Introduction to Large Language Models"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** July 7, 2026  
@@ -225,7 +237,11 @@ For cybersecurity applications, large language models may support analysts by su
 
 ## Prompt Engineering: Shaping Better AI Responses
 
-![Prompt Engineering: Shaping Better AI Responses](stickers/prompt-engineering-shaping-better-ai-responses.png)
+<p align="center">
+  <img src="stickers/prompt-engineering-shaping-better-ai-responses.png"
+       alt="Prompt Engineering: Shaping Better AI Responses"
+       width="300">
+</p>
 
 **Type:** IBM SkillsBuild digital learning sticker  
 **Date completed:** July 7, 2026  
