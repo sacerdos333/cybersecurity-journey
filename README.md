@@ -305,6 +305,48 @@ Planned and developing projects include:
 
 ## Weekly Progress Log
 
+### Week of July 20, 2026
+
+#### Work Completed
+
+- Added two IBM SkillsBuild course learning records to the `cybersecurity-journey` repository
+- Documented verified Credly credentials and IBM SkillsBuild digital learning stickers
+- Created separate folders for credential badges and learning stickers within each course
+- Added credential verification links, issue dates, skills demonstrated, and course descriptions
+- Documented personal learning reflections and cybersecurity relevance for each credential and module
+- Improved badge and sticker formatting by using HTML image tags to create consistent image sizes
+- Updated the main `cybersecurity-journey` README with an AI and Emerging Technology Training section
+- Added links from the main README to the detailed IBM SkillsBuild course records
+- Reviewed and aligned the `Sacerdos333` profile README with the `cybersecurity-journey` README
+- Added navigation links between my GitHub profile and the Cybersecurity Journey repository
+- Updated the Mission Tracker and marked Mission 003 – Portfolio Structure as in progress
+- Added content to the Current Skills, Currently Learning, and Portfolio Projects sections
+- Developed a structured Current Roadmap covering technical foundations, certifications, hands-on labs, AI, and professional readiness
+
+#### Skills Practiced
+
+- GitHub repository organization
+- Markdown formatting
+- HTML image sizing within Markdown files
+- Relative file paths
+- Folder and filename conventions
+- Git commit documentation
+- Technical writing
+- Professional portfolio architecture
+- Credential documentation
+- Career-focused project planning
+
+#### Current Status
+
+My GitHub portfolio now provides a more organized and connected presentation of my cybersecurity career transition, technical learning, IBM SkillsBuild credentials, certification roadmap, and future hands-on projects.
+
+#### Next Steps
+
+- Create the first Lessons Learned entry
+- Select the first hands-on cybersecurity portfolio project
+- Continue developing Mission 003 – Portfolio Structure
+- Begin documenting project objectives, tools, procedures, findings, and reflections
+
 ## Lessons Learned
 
 ---
