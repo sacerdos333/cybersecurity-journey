@@ -91,6 +91,144 @@ Training in generative AI fundamentals, large language models, prompt engineerin
 
 ## Current Roadmap
 
+My cybersecurity roadmap is organized around four priorities: building strong technical foundations, earning industry certifications, developing hands-on experience, and documenting evidence of my progress.
+
+### Phase 1: Portfolio Foundation and Career Preparation
+
+**Current focus**
+
+- Maintain a professional GitHub profile and cybersecurity portfolio
+- Organize training records, digital credentials, projects, and learning notes
+- Document my career transition and technical development
+- Strengthen my professional brand for cybersecurity analyst opportunities
+- Prepare for the DSDT Cybersecurity Professional Program
+
+**Progress**
+
+- ✅ Professional GitHub profile established
+- ✅ Cybersecurity Journey repository created
+- ✅ IBM SkillsBuild credentials and learning records documented
+- 🚧 Portfolio architecture and navigation under continued development
+
+### Phase 2: Networking and Security Fundamentals
+
+**Primary objectives**
+
+- Develop a working understanding of TCP/IP, ports, protocols, and network services
+- Strengthen knowledge of the OSI model, DNS, DHCP, routing, and switching
+- Practice basic network troubleshooting
+- Learn how networks are monitored and protected
+- Prepare for the CompTIA Network+ certification
+
+**Planned evidence**
+
+- Networking study notes
+- Wireshark packet-capture exercises
+- Network diagrams
+- Troubleshooting documentation
+- Small home-network security assessments
+
+### Phase 3: Core Cybersecurity Skills
+
+**Primary objectives**
+
+- Build knowledge of security controls, threats, vulnerabilities, and risk management
+- Practice system hardening for Windows and Linux environments
+- Develop familiarity with authentication, access control, encryption, and secure configuration
+- Learn vulnerability scanning and remediation fundamentals
+- Prepare for the CompTIA Security+ certification
+
+**Planned evidence**
+
+- Windows and Linux hardening checklists
+- Vulnerability-assessment reports
+- Security-policy examples
+- Risk-analysis exercises
+- TryHackMe learning write-ups
+
+### Phase 4: Security Operations and Threat Detection
+
+**Primary objectives**
+
+- Develop practical skills in security monitoring and alert analysis
+- Learn SIEM concepts, log analysis, and event correlation
+- Practice incident-response procedures
+- Study common attack techniques and indicators of compromise
+- Build knowledge aligned with Security Operations Center analyst responsibilities
+- Prepare for the CompTIA CySA+ certification
+
+**Planned evidence**
+
+- Home SOC Lab
+- SIEM dashboards and searches
+- Incident-response case studies
+- Log-analysis exercises
+- Threat-detection documentation
+- Analyst-style investigation reports
+
+### Phase 5: Systems, Active Directory, and Automation
+
+**Primary objectives**
+
+- Build a Windows Server and Active Directory lab
+- Practice user, group, permission, and policy administration
+- Learn common Active Directory security risks
+- Use PowerShell and Python to automate routine technical and security tasks
+- Strengthen Git and GitHub workflow skills
+
+**Planned evidence**
+
+- Active Directory Lab documentation
+- Group Policy exercises
+- PowerShell automation scripts
+- Python security tools
+- Access-control and permissions reviews
+
+### Phase 6: AI and Emerging Technology in Cybersecurity
+
+**Primary objectives**
+
+- Apply generative AI, AI agents, and RAG concepts to cybersecurity workflows
+- Explore secure and responsible use of AI-enabled tools
+- Study risks involving prompt injection, sensitive-data exposure, inaccurate output, and excessive agent permissions
+- Develop practical projects connecting AI knowledge with cybersecurity analysis
+
+**Planned evidence**
+
+- Cybersecurity knowledge assistant using RAG
+- AI-assisted phishing-analysis workflow
+- Prompt-engineering examples for security tasks
+- AI-agent access-control checklist
+- Responsible AI and security-risk assessment
+
+### Phase 7: Professional Readiness and Job Search
+
+**Primary objectives**
+
+- Build a portfolio of projects that can be discussed during technical interviews
+- Develop clear explanations of project goals, methods, findings, and lessons learned
+- Update my résumé and LinkedIn profile with verified skills and accomplishments
+- Practice technical and behavioral interview questions
+- Apply for analyst-focused cybersecurity positions
+
+**Target roles**
+
+- Cybersecurity Analyst
+- SOC Analyst
+- Security Operations Analyst
+- Vulnerability Analyst
+- Junior Incident Response Analyst
+
+### Certification Roadmap
+
+- 🎯 CompTIA Network+
+- 🎯 CompTIA Security+
+- 🎯 CompTIA CySA+
+
+### Long-Term Goal
+
+My long-term goal is to become a trusted cybersecurity professional who combines technical knowledge, analytical thinking, clear documentation, responsible use of emerging technology, and a commitment to continuous learning.
+
 ## Mission Tracker
 
 | Mission | Status |
