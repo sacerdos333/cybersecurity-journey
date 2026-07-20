@@ -1,0 +1,1 @@
+# IBM Lerning sticker images
