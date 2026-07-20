@@ -93,11 +93,77 @@ Training in generative AI fundamentals, large language models, prompt engineerin
 
 ## Mission Tracker
 
+| Mission | Status |
+|----------|--------|
+| Mission 001 – Professional GitHub Makeover | ✅ Complete |
+| Mission 002 – GitHub Profile README | ✅ Complete |
+| Mission 003 – Portfolio Structure | 🚧 In Progress |
+| Mission 004 – Home Cyber Lab | ⏳ Planned |
+| Mission 005 – TryHackMe Portfolio | ⏳ Planned |
+| Mission 006 – Python Security Tools | ⏳ Planned |
+| Mission 007 – Active Directory Lab | ⏳ Planned |
+| Mission 008 – Home SOC | ⏳ Planned |
+
 ## Current Skills
+
+### Operating Systems
+- Windows
+- Linux fundamentals
+- Virtual machine environments
+
+### Networking
+- TCP/IP fundamentals
+- OSI model
+- DNS
+- DHCP
+
+### Programming and Scripting
+- Python
+- Git and GitHub
+
+### Security Foundations
+- SIEM concepts
+- Security monitoring
+- Ethical hacking fundamentals
+- Vulnerability management concepts
+- Incident-response concepts
+
+### AI and Emerging Technology
+- Generative AI fundamentals
+- Prompt engineering
+- AI agents
+- Retrieval-Augmented Generation
+- Responsible AI and AI risk awareness
+- IBM Granite
+- IBM watsonx.ai
 
 ## Currently Learning
 
+- CompTIA Network+ concepts
+- CompTIA Security+ concepts
+- CompTIA CySA+ concepts
+- Windows Server
+- Active Directory
+- Wireshark packet analysis
+- Nmap
+- PowerShell
+- SIEM and threat detection
+- AI-assisted cybersecurity workflows
+
 ## Portfolio Projects
+
+Planned and developing projects include:
+
+- Home SOC Lab
+- Active Directory Lab
+- TryHackMe write-ups
+- Python security tools
+- Wireshark packet analysis
+- Vulnerability-management documentation
+- Incident-response exercises
+- PowerShell automation
+- Cybersecurity knowledge assistant using RAG
+- AI-agent security and access-control checklist
 
 ## Weekly Progress Log
 
