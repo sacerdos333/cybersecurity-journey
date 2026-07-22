@@ -6,6 +6,12 @@ The **Generative AI and AI Agent** learning program provided foundational and pr
 
 The program explored how generative AI systems produce content, how large language models respond to prompts, and how effective prompt-engineering techniques can improve AI-generated outputs. It also covered the ethical risks associated with generative AI and the process of designing, evaluating, deploying, and maintaining AI agents using IBM watsonx.ai.
 
+## Course Completion Certificate
+
+I completed the IBM SkillsBuild **Generative AI and AI Agent** learning plan on July 17, 2026.
+
+[View the course completion certificate](certificates/generative-ai-and-ai-agent-certificate.pdf)
+
 ## What I Learned
 
 Through the combined course modules, I learned how to:
