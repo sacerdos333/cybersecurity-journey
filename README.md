@@ -18,6 +18,26 @@ Today, I am returning with a clear plan, a structured learning path, and a commi
 
 ## Career Transition Timeline
 
+### 2020-2021 - IBM Data Science Professional Certification
+
+[Explore my Data Science Journey Repository](https://github.com/sacerdos333/data-science-journey)
+
+### 2021-2022 - Business Data Analyst — Catanese Classics
+
+Applied data-analysis and reporting skills to sales, inventory, pricing, customer, purchasing, and product information in a working business environment.
+
+- Collected and analyzed QuickBooks Enterprise data to identify daily sales changes and prepare daily, weekly, and monthly reports for outside sales personnel, internal stakeholders, and business leaders.
+- Used ETL processes to extract and transform QuickBooks data for loading into standardized Excel workbooks and a new ERP system.
+- Converted difficult-to-use QuickBooks reports into interactive Excel workbooks that supported inventory and pricing decisions.
+- Reformatted inconsistent QuickBooks data types to improve their accuracy and usability in Excel-based analysis and reporting.
+- Created detailed product playbooks for sales personnel by organizing and paginating product, pricing, and sales information.
+- Delivered weekly, in-person employee training on advanced Excel capabilities, including indexing formulas, PivotTables, Power Query, and spreadsheet-efficiency techniques.
+- Worked with Microsoft 365, Excel, QuickBooks Enterprise, and OLAP-based analytical processes.
+
+**Information handled:** Sales data, inventory levels, product pricing, customer information, purchase orders, and sales-product playbooks.
+
+**Transferable skills:** Data collection, ETL, data transformation, business intelligence, trend analysis, report development, data quality, stakeholder communication, technical training, and process improvement.
+
 ### 2022
 - Completed cybersecurity training through Intellectual Point
 - Studied Security+, CEH, and Splunk concepts
