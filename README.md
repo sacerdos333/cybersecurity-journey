@@ -38,13 +38,13 @@ Applied data-analysis and reporting skills to sales, inventory, pricing, custome
 
 **Transferable skills:** Data collection, ETL, data transformation, business intelligence, trend analysis, report development, data quality, stakeholder communication, technical training, and process improvement.
 
-### 2022
+### 2022 - Intellectual Point DevOps Pathway Training Program 
 - Completed cybersecurity training through Intellectual Point
 - Studied Security+, CEH, and Splunk concepts
 - Worked in Linux, Windows, and virtual lab environments
 - Developed a foundational understanding of cybersecurity
 
-### 2023-2025
+### 2022-2025
 
 #### SJE Inc (2022-2024)
 - Worked as a Data Analyst supporting business operations and decision-making through data analysis and reporting.
