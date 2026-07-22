@@ -90,7 +90,7 @@ Training in AI agents, multiagent systems, document-based and multimodal Retriev
 
 **Course completion certificate:**
 
-- [View Applied AI Agents, Chatbots & RAG Completion Certificate](credentials/ibm-skillsbuild/applied-ai-agents-chatbots-rag/certificates/applied-ai-agents-chatbots-rag-certificate.pdf)
+[View Applied AI Agents, Chatbots & RAG Completion Certificate](credentials/ibm-skillsbuild/applied-ai-agents-chatbots-rag/certificates/applied-ai-agents-chatbots-rag-certificate.pdf)
 
 [View course learning record](credentials/ibm-skillsbuild/applied-ai-agents-chatbots-rag/README.md)
 
@@ -105,7 +105,7 @@ Training in generative AI fundamentals, large language models, prompt engineerin
 
 **Course completion certificate:**
 
-- [View Generative AI and AI Agent Completion Certificate](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/certificates/generative-ai-and-ai-agent-certificate.pdf)
+[View Generative AI and AI Agent Completion Certificate](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/certificates/generative-ai-and-ai-agent-certificate.pdf)
 
 [View course learning record](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/README.md)
 
