@@ -6,6 +6,12 @@ The **Applied AI Agents, Chatbots & RAG** learning program provided practical tr
 
 The program combined foundational concepts with applied exercises involving AI agents, document-based knowledge retrieval, multimodal RAG, IBM Granite, and IBM watsonx.
 
+## Course Completion Certificate
+
+I completed the IBM SkillsBuild **Applied AI Agents, Chatbots & RAG** learning plan on July 16, 2026.
+
+[View the course completion certificate](certificates/applied-ai-agents-chatbots-rag-certificate.pdf)
+
 ## What I Learned
 
 Through the combined course modules, I learned how to:
