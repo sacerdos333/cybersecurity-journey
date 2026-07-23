@@ -78,6 +78,7 @@ The following certifications represent my active credentials and prior formal cy
 | Certification | Issuing Organization | Date Earned | Status |
 |---|---|---:|---|
 | ITIL 4 Foundation in IT Service Management | PeopleCert | November 2025 | Active — renew by November 2028 |
+| CompTIA Security+ (SY0-601) | CompTIA | May 2022 | Expired |
 
 ### ITIL 4 Foundation in IT Service Management
 
@@ -101,6 +102,33 @@ The ITIL 4 Foundation certification validates my understanding of modern IT serv
 **Cybersecurity Career Relevance:**
 
 This certification strengthens my understanding of how cybersecurity operations fit within broader IT service management practices. The ITIL framework supports incident management, change enablement, service continuity, governance, and continual improvement—areas particularly relevant to cybersecurity analyst and Security Operations Center environments.
+
+### CompTIA Security+ (SY0-601)
+
+- **Issuing Organization:** CompTIA
+- **Date Earned:** May 27, 2022
+- **Exam Version:** SY0-601
+- **Status:** Expired
+- **Credential Verification:** Available upon request
+
+> **Credential Status:** This certification was earned in 2022 and is included as evidence of prior formal cybersecurity training and demonstrated knowledge. It is not represented as an active certification.
+
+The CompTIA Security+ certification validated my foundational knowledge of securing networks, systems, applications, and organizational information. Earning this credential established a broad cybersecurity foundation that continues to support my current certification preparation and hands-on training.
+
+**Knowledge Areas Covered:**
+
+- Threats, attacks, vulnerabilities, and social engineering
+- Secure network architecture and system design
+- Identity and access management
+- Cryptography and public key infrastructure
+- Security operations and incident response
+- Digital forensics and investigation data sources
+- Governance, risk management, privacy, and compliance
+- Security policies, standards, and organizational controls
+
+**Cybersecurity Career Relevance:**
+
+The knowledge developed through Security+ continues to support my preparation for cybersecurity analyst and Security Operations Center roles. My current Network+, Security+, and CySA+ studies refresh and expand this foundation through updated concepts and hands-on practice.
   
 ## AI and Emerging Technology Training
 
