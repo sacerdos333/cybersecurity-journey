@@ -80,6 +80,7 @@ The following certifications represent my active credentials and prior formal cy
 | ITIL 4 Foundation in IT Service Management | PeopleCert | November 2025 | Active — renew by November 2028 |
 | CompTIA Security+ (SY0-601) | CompTIA | May 2022 | Expired |
 | Certified Ethical Hacker (CEH v11) | EC-Council | June 2022 | Expired |
+| Splunk Core Certified User | Splunk | July 2022 | Expired |
 
 ### ITIL 4 Foundation in IT Service Management
 
@@ -160,6 +161,35 @@ The Certified Ethical Hacker certification validated my understanding of ethical
 The knowledge developed through CEH strengthened my ability to examine systems from an adversarial perspective and better understand how attackers identify and exploit vulnerabilities. This foundation remains relevant to vulnerability analysis, threat detection, incident response, and Security Operations Center investigations.
 
 My current cybersecurity studies and hands-on labs are refreshing these concepts while expanding my defensive security, network analysis, and security operations capabilities.
+
+### Splunk Core Certified User
+
+- **Issuing Organization:** Splunk
+- **Date Earned:** July 25, 2022
+- **Status:** Expired
+- **Credential Verification:** Available upon request
+
+> **Credential Status:** This certification was earned in 2022 and is included as evidence of prior formal training and demonstrated proficiency with the Splunk platform. It is not represented as an active certification.
+
+The Splunk Core Certified User certification validated my foundational ability to search, analyze, and visualize machine-generated data using the Splunk platform. This training developed practical skills for investigating data, creating reports, and communicating operational findings through dashboards.
+
+**Knowledge Areas Covered:**
+
+- Splunk platform and data-analysis fundamentals
+- Performing basic searches
+- Using fields to refine and investigate search results
+- Applying Search Processing Language (SPL) fundamentals
+- Using basic transforming commands
+- Creating reports and visualizations
+- Building and using dashboards
+- Creating and using lookups
+- Working with scheduled reports and alerts
+
+**Cybersecurity Career Relevance:**
+
+Splunk is widely used for log analysis, security monitoring, threat detection, and incident investigation. The knowledge developed through this certification strengthened my ability to search large datasets, identify meaningful events, visualize findings, and support evidence-based security investigations.
+
+These skills remain directly relevant to my cybersecurity analyst and Security Operations Center career goals. My current cybersecurity studies and hands-on labs continue to refresh and expand my Splunk, security monitoring, and incident-analysis capabilities.
   
 ## AI and Emerging Technology Training
 
