@@ -18,6 +18,16 @@ Today, I am returning with a clear plan, a structured learning path, and a commi
 
 ## Career Transition Timeline
 
+### 2018-2021 - Post-Military Graduate Education
+
+After retiring from active-duty service in the United States Air Force in November 2018, I transitioned into full-time graduate study at Keller Graduate School of Management.
+
+- Earned a Master of Business Administration with a concentration in Business Intelligence and Analytics Management in October 2019.
+- Earned a Master of Accounting and Financial Management with a concentration in Certified Public Accountant Preparation in February 2021.
+- Graduated with Distinction from both graduate-degree programs.
+- Developed advanced knowledge in business analytics, databases, accounting information systems, auditing, internal controls, governance, risk assessment, and organizational leadership.
+- Built an analytical and business-risk foundation that now complements my technical cybersecurity training and supports my pursuit of cybersecurity analyst roles.
+
 ### 2020-2021 - IBM Data Science Professional Certification
 
 [Explore my Data Science Journey Repository](https://github.com/sacerdos333/data-science-journey)
