@@ -79,6 +79,7 @@ The following certifications represent my active credentials and prior formal cy
 |---|---|---:|---|
 | ITIL 4 Foundation in IT Service Management | PeopleCert | November 2025 | Active — renew by November 2028 |
 | CompTIA Security+ (SY0-601) | CompTIA | May 2022 | Expired |
+| Certified Ethical Hacker (CEH v11) | EC-Council | June 2022 | Expired |
 
 ### ITIL 4 Foundation in IT Service Management
 
@@ -129,6 +130,36 @@ The CompTIA Security+ certification validated my foundational knowledge of secur
 **Cybersecurity Career Relevance:**
 
 The knowledge developed through Security+ continues to support my preparation for cybersecurity analyst and Security Operations Center roles. My current Network+, Security+, and CySA+ studies refresh and expand this foundation through updated concepts and hands-on practice.
+
+### Certified Ethical Hacker (CEH v11)
+
+- **Issuing Organization:** EC-Council
+- **Date Earned:** June 27, 2022
+- **Exam Version:** CEH v11
+- **Status:** Expired
+- **Credential Verification:** Available upon request
+
+> **Credential Status:** This certification was earned in 2022 and is included as evidence of prior formal cybersecurity training and demonstrated knowledge. It is not represented as an active certification.
+
+The Certified Ethical Hacker certification validated my understanding of ethical hacking methodologies, common attack techniques, vulnerability identification, and the defensive measures organizations use to protect systems and information.
+
+**Knowledge Areas Covered:**
+
+- Information security and ethical hacking fundamentals
+- Reconnaissance and information-gathering techniques
+- System-hacking phases and attack techniques
+- Network and perimeter security testing
+- Web application hacking
+- Wireless network security
+- Mobile platform, Internet of Things, and operational technology security
+- Cloud-computing security
+- Cryptography and data protection
+
+**Cybersecurity Career Relevance:**
+
+The knowledge developed through CEH strengthened my ability to examine systems from an adversarial perspective and better understand how attackers identify and exploit vulnerabilities. This foundation remains relevant to vulnerability analysis, threat detection, incident response, and Security Operations Center investigations.
+
+My current cybersecurity studies and hands-on labs are refreshing these concepts while expanding my defensive security, network analysis, and security operations capabilities.
   
 ## AI and Emerging Technology Training
 
