@@ -70,6 +70,37 @@ Applied data-analysis and reporting skills to sales, inventory, pricing, custome
 - Completed IBM SkillsBuild training in generative AI, AI agents, prompt engineering, and Retrieval-Augmented Generation
 - Earned verified IBM SkillsBuild digital credentials through Credly
 - Established a long-term cybersecurity roadmap
+
+## Certifications & Credentials
+
+The following certifications represent my active credentials and prior formal cybersecurity training. Credential status is stated clearly to distinguish active certifications from previously earned credentials that have expired.
+
+| Certification | Issuing Organization | Date Earned | Status |
+|---|---|---:|---|
+| ITIL 4 Foundation in IT Service Management | PeopleCert | November 2025 | Active — renew by November 2028 |
+
+### ITIL 4 Foundation in IT Service Management
+
+- **Issuing Organization:** PeopleCert
+- **Date Earned:** November 2, 2025
+- **Renewal Date:** November 3, 2028
+- **Status:** Active
+- **Credential ID:** Available upon request
+- **Verification:** [PeopleCert Certificate Verification Service](https://www.peoplecert.org/for-corporations/certificate-verification-service)
+
+The ITIL 4 Foundation certification validates my understanding of modern IT service management and how technology-enabled services create value for organizations and their stakeholders.
+
+**Core Areas Covered:**
+
+- The four dimensions of service management
+- The ITIL service value system
+- The service value chain
+- The ITIL guiding principles
+- Continual improvement and value-focused service delivery
+
+**Cybersecurity Career Relevance:**
+
+This certification strengthens my understanding of how cybersecurity operations fit within broader IT service management practices. The ITIL framework supports incident management, change enablement, service continuity, governance, and continual improvement—areas particularly relevant to cybersecurity analyst and Security Operations Center environments.
   
 ## AI and Emerging Technology Training
 
@@ -108,14 +139,6 @@ Training in generative AI fundamentals, large language models, prompt engineerin
 [View Generative AI and AI Agent Completion Certificate](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/certificates/generative-ai-and-ai-agent-certificate.pdf)
 
 [View course learning record](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/README.md)
-
-### Future Goals
-- Earn Network+
-- Earn Security+
-- Earn CySA+
-- Build a Home SOC Lab
-- Develop cybersecurity projects and documentation
-- Obtain a Cybersecurity Analyst position
 
 ## Current Roadmap
 
