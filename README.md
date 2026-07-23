@@ -78,6 +78,7 @@ The following certifications represent my active credentials and prior formal cy
 | Certification | Issuing Organization | Date Earned | Status |
 |---|---|---:|---|
 | ITIL 4 Foundation in IT Service Management | PeopleCert | November 2025 | Active — renew by November 2028 |
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | May 2023 | Expired — maintained through May 2026 |
 | CompTIA Security+ (SY0-601) | CompTIA | May 2022 | Expired |
 | Certified Ethical Hacker (CEH v11) | EC-Council | June 2022 | Expired |
 | Splunk Core Certified User | Splunk | July 2022 | Expired |
@@ -190,6 +191,37 @@ The Splunk Core Certified User certification validated my foundational ability t
 Splunk is widely used for log analysis, security monitoring, threat detection, and incident investigation. The knowledge developed through this certification strengthened my ability to search large datasets, identify meaningful events, visualize findings, and support evidence-based security investigations.
 
 These skills remain directly relevant to my cybersecurity analyst and Security Operations Center career goals. My current cybersecurity studies and hands-on labs continue to refresh and expand my Splunk, security monitoring, and incident-analysis capabilities.
+
+### Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+- **Issuing Organization:** Microsoft
+- **Original Certification Date:** May 13, 2023
+- **Exam:** PL-300
+- **Renewal Assessments:** March 13, 2024 and April 21, 2025
+- **Last Valid Date:** May 13, 2026
+- **Status:** Expired
+- **Credential Verification:** Available upon request
+
+> **Credential Status:** I originally earned this certification by passing the proctored PL-300 exam in 2023. I subsequently completed Microsoft Learn renewal assessments in 2024 and 2025, maintaining the certification through May 13, 2026. The credential is included as evidence of prior certification and sustained Power BI proficiency; it is not represented as currently active.
+
+The Microsoft Power BI Data Analyst Associate certification validated my ability to prepare, model, visualize, analyze, deploy, and maintain organizational data using Microsoft Power BI.
+
+**Knowledge Areas Covered:**
+
+- Preparing, cleaning, transforming, and loading data
+- Designing and developing Power BI data models
+- Creating calculations and measures
+- Visualizing and analyzing data
+- Developing interactive reports and dashboards
+- Managing Power BI workspaces and datasets
+- Deploying and maintaining Power BI assets
+- Applying data security and governance controls
+
+**Cybersecurity Career Relevance:**
+
+Power BI skills support cybersecurity reporting and decision-making by transforming technical and operational data into understandable dashboards, metrics, and visualizations. These capabilities are relevant to communicating security trends, vulnerability findings, incident metrics, risk indicators, and compliance information to both technical teams and organizational leadership.
+
+My experience earning the original certification and completing two annual renewal assessments demonstrates sustained professional development and continued proficiency with the Power BI platform.
   
 ## AI and Emerging Technology Training
 
