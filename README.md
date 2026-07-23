@@ -261,6 +261,38 @@ Training in generative AI fundamentals, large language models, prompt engineerin
 
 [View course learning record](credentials/ibm-skillsbuild/generative-ai-and-ai-agent/README.md)
 
+## Education
+
+### Bachelor of Science in Technical Management
+
+**DeVry University**  
+**Concentration:** General Technical Specialty  
+**Degree Awarded:** December 2017  
+**Academic Honor:** Magna Cum Laude
+
+My Technical Management degree combined business and project-management education with technical studies in information systems, data analysis, databases, electronics, security management, and physical access control.
+
+**Selected Relevant Coursework:**
+
+- Data Analysis with Spreadsheets and Lab
+- Statistics for Decision-Making
+- Database Essentials for Business and Lab
+- Business Systems Analysis
+- Managerial Business Analytics
+- Project Management
+- Principles and Theory of Security Management
+- Physical Security and Access Control
+- Digital Fundamentals and Lab
+- Engineering Technology and Information Sciences
+- Technology, Society, and Culture
+- Senior Project
+
+**Cybersecurity Career Relevance:**
+
+This degree developed the technical, analytical, and managerial foundation I now apply to cybersecurity. Coursework in security management and physical access control introduced core security principles, while database, analytics, and systems-analysis courses strengthened my ability to evaluate information, identify patterns, understand organizational systems, and communicate technical findings.
+
+Project management and business coursework also prepared me to approach cybersecurity as an organizational risk-management responsibility involving people, processes, technology, governance, and business objectives.
+
 ## Current Roadmap
 
 My cybersecurity roadmap is organized around four priorities: building strong technical foundations, earning industry certifications, developing hands-on experience, and documenting evidence of my progress.
