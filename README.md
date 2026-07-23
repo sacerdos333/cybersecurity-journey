@@ -263,6 +263,62 @@ Training in generative AI fundamentals, large language models, prompt engineerin
 
 ## Education
 
+### Master of Accounting and Financial Management
+
+**Keller Graduate School of Management**  
+**Concentration:** Certified Public Accountant Preparation  
+**Degree Awarded:** February 2021  
+**Academic Honor:** With Distinction
+
+My graduate studies in accounting and financial management developed advanced knowledge of auditing, accounting information systems, internal controls, financial reporting, taxation, and evidence-based financial decision-making.
+
+**Selected Relevant Coursework:**
+
+- Accounting Information Systems
+- External Auditing
+- Advanced Financial Accounting and Reporting Issues
+- Intermediate Accounting I
+- Intermediate Accounting II
+- Intermediate Accounting III
+- Federal Taxes and Management Decisions
+- CPA Exam Preparation: Financial Accounting and Reporting
+- Master of Accounting and Financial Management Capstone
+
+**Cybersecurity Career Relevance:**
+
+This degree strengthened my understanding of auditing, internal controls, information integrity, regulatory accountability, risk assessment, and the protection of financial and organizational data. These subjects directly support cybersecurity governance, risk, and compliance; security auditing; fraud detection; access-control evaluation; and evidence-based investigations.
+
+My accounting and financial-management background also helps me evaluate cybersecurity as an organizational risk involving the reliability of information, effectiveness of controls, regulatory obligations, operational continuity, and potential financial impact.
+
+### Master of Business Administration
+
+**Keller Graduate School of Management**  
+**Concentration:** Business Intelligence and Analytics Management  
+**Degree Awarded:** October 2019  
+**Academic Honor:** With Distinction
+
+My MBA combined graduate-level business leadership and strategy with specialized study in business intelligence and analytics. The program emphasized evidence-based decision-making, database-supported analysis, technology innovation, organizational leadership, business ethics, and strategic management.
+
+**Selected Relevant Coursework:**
+
+- Business Analytics I
+- Business Analytics II
+- Business Intelligence Database
+- Innovation Through Technology
+- Legal, Political, and Ethical Dimensions of Business
+- Leadership and Organizational Behavior
+- Strategic Human Resource Management
+- Corporate Finance
+- Managerial Accounting
+- Business Economics
+- MBA Capstone
+
+**Cybersecurity Career Relevance:**
+
+This degree strengthened my ability to interpret complex information, identify meaningful patterns, and translate analytical findings into business decisions. Coursework in analytics, databases, technology innovation, ethics, finance, and leadership supports my ability to examine cybersecurity challenges within their broader operational and strategic context.
+
+The program also developed skills relevant to cybersecurity reporting, security metrics, risk communication, governance, stakeholder collaboration, and presenting technical findings to organizational leadership.
+
 ### Bachelor of Science in Technical Management
 
 **DeVry University**  
