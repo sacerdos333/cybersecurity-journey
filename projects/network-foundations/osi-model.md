@@ -1,4 +1,4 @@
-## My documentation of understanding the valuable foundations of networking.
+## My Understanding of the Valuable Foundations of Networking
 
 ### What the Open System Interconnection (OSI) model is:
 - A layered approch to separating components of a system on a network
