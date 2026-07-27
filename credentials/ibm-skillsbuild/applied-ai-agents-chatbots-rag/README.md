@@ -173,7 +173,7 @@ I learned how AI agents can receive goals, process information, make decisions, 
 ## Introduction to Retrieval-Augmented Generation
 
 <p align="center">
-  <img src="stickers/unleashing-the-power-of-ai-agents.png"
+  <img src="stickers/introduction-to-retrieval-augmented-generation.png"
        alt="Introduction to Retrieval-Augmented Generation"
        width="300">
 </p>
