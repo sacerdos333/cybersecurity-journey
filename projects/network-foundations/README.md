@@ -12,3 +12,7 @@
 > "Once my computer knows where to send packets, how does it know the IP address of google.com or any other website?"
 - Documented in / projects / network-foundations / dns-investigation.md
 
+### 27 Jul 2026 - Today we answer the next question: 
+> "Once my computer knows the destination IP address, how does it actually establish communication?"
+- Documented in / projects / network-foundations / tcp-vs-udp.md
+
