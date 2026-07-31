@@ -28,7 +28,7 @@
 > "How can dozens of devices in your house all share a single public IP address? Using Network Address Translation (NAT)"
 - Documented in / projects / network-foundations / 07-wk02-0730-nat-private-vs-public-ip.mdtcp-vs-udp.md
 
-### 31 Jul 2026 - Today we explore ...:
-> "Once my computer ..."
-- Documented in / projects / network-foundations / 08-wk02-0731-stateful-vs-stateless.md
+### 31 Jul 2026 - Today we explore one of the most important topics for every SOC analyst:
+> "Shifting from how networks communicate to how networks are defended by understanding firewalls and Access Control Lists (ACLs) ..."
+- Documented in / projects / network-foundations / 08-wk02-0731-firewall-acl-basics.md
 
