@@ -32,3 +32,7 @@
 > "Shifting from how networks communicate to how networks are defended by understanding firewalls and Access Control Lists (ACLs) ..."
 - Documented in / projects / network-foundations / 08-wk02-0731-firewall-acl-basics.md
 
+### 3 Aug 2026 - Today we adding a layer to what we already learned in firewalls and ACLs:
+> "What happens when legitimate traffic must securely cross an untrusted network such as the Internet?"
+- Documented in / projects / network-foundations / 09-wk03-0803-vpn-secure-remote-access.md
+
