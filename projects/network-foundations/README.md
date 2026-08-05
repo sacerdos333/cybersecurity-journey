@@ -40,3 +40,7 @@
 > "If an attacker compromises one workstation, what prevents that attacker from simply moving through the rest of the network? The answer is network segmentation"
 - Documented in / projects / network-foundations / 10-wk03-0804-vlan-network-segmentation.md
 
+### 5 Aug 2026 - Today we look at switches. VLANs depend heavily on switches, and switches depend on MAC addresses to determine where Ethernet frames should go:
+> "What happens when an attacker abuses the way a switch learns and trusts MAC addresses?"
+- Documented in / projects / network-foundations / 11-wk03-0805-switch-security-layer2.md
+
