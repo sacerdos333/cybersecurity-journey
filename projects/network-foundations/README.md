@@ -44,3 +44,7 @@
 > "What happens when an attacker abuses the way a switch learns and trusts MAC addresses?"
 - Documented in / projects / network-foundations / 11-wk03-0805-switch-security-layer2.md
 
+### 6 Aug 2026 - Today we look at wireless networking. We are extending the same access-control concepts that learned from switch security to wireless security:
+> "If someone can physically reach a Wi-Fi signal, what prevents them from joining the network?"
+- Documented in / projects / network-foundations / 12-wk03-0806-wireless-security-wpa2-wpa3.md
+
