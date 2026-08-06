@@ -372,13 +372,16 @@ My cybersecurity roadmap is organized around four priorities: building strong te
 - Document my career transition and technical development
 - Strengthen my professional brand for cybersecurity analyst opportunities
 - Prepare for the DSDT Cybersecurity Professional Program
+- - Build and document a professional home cybersecurity laboratory
 
 **Progress**
 
 - ✅ Professional GitHub profile established
 - ✅ Cybersecurity Journey repository created
-- ✅ IBM SkillsBuild credentials and learning records documented
+- ✅ IBM SkillsBuild credentials documented
+- ✅ Daily cybersecurity learning journal established
 - 🚧 Portfolio architecture and navigation under continued development
+- 🚧 Home cybersecurity lab documentation initiated
 
 ### Phase 2: Networking and Security Fundamentals
 
@@ -499,14 +502,14 @@ My cybersecurity roadmap is organized around four priorities: building strong te
 
 My long-term goal is to become a trusted cybersecurity professional who combines technical knowledge, analytical thinking, clear documentation, responsible use of emerging technology, and a commitment to continuous learning.
 
-## Mission Tracker
+## Cybersecurity Mission Roadmap
 
 | Mission | Status |
 |----------|--------|
 | Mission 001 – Professional GitHub Makeover | ✅ Complete |
 | Mission 002 – GitHub Profile README | ✅ Complete |
 | Mission 003 – Portfolio Structure | 🚧 In Progress |
-| Mission 004 – Home Cyber Lab | ⏳ Planned |
+| Mission 004 – Home Cyber Lab | 🚧 In Progress |
 | Mission 005 – TryHackMe Portfolio | ⏳ Planned |
 | Mission 006 – Python Security Tools | ⏳ Planned |
 | Mission 007 – Active Directory Lab | ⏳ Planned |
