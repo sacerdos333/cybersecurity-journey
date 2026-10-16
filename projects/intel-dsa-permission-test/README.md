@@ -4,7 +4,7 @@
 
 In this lab, I tested whether Intel® Driver & Support Assistant (Intel DSA) required the Norton Private Browser permission **Apps on device** to scan my Windows system. I used a controlled deny-then-allow test: I first blocked the request and recorded the result, then allowed only the relevant permission, refreshed the Intel DSA page, and compared the outcome.
 
-The test showed a repeatable relationship:
+The test showed the following relationship under the tested conditions:
 
 - With **Apps on device** blocked, Intel DSA displayed a scan error.
 - With **Apps on device** allowed for `www.intel.com`, Intel DSA completed the scan and displayed an up-to-date result.
@@ -130,7 +130,7 @@ This lab is a portfolio exercise aligned to certification concepts; it is not an
 - **Security operations:** changed and reviewed a security-relevant browser setting, validated expected behavior, and documented the outcome.
 - **Threats, vulnerabilities, and mitigations:** considered the risk of granting a website access to a local service and limited the trust boundary to a known vendor domain.
 - **Troubleshooting and change validation:** used a controlled before/after test instead of enabling multiple permissions at once.
-- **Data protection:** identified sensitive information in screenshots and planned sanitization before public release.
+- **Data protection:** identified and removed sensitive information from screenshots before public release.
 
 ### CompTIA CySA+ alignment
 
@@ -138,7 +138,7 @@ This lab is a portfolio exercise aligned to certification concepts; it is not an
 - **Vulnerability management:** evaluated whether a requested permission was functionally necessary and considered the exposure created by that permission.
 - **Incident-response-style analysis:** recorded conditions, symptoms, actions, results, scope, and limitations in a repeatable timeline.
 - **Reporting and communication:** translated technical observations into evidence, findings, risk considerations, and recommendations suitable for review.
-- **Evidence handling:** retained private originals while planning sanitized derivatives for public reporting.
+- **Evidence handling:** retained private originals while publishing only sanitized evidence derivatives.
 
 ## Recommendations and Next Steps
 
