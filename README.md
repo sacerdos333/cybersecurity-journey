@@ -563,6 +563,12 @@ My long-term goal is to become a trusted cybersecurity professional who combines
 
 ## Portfolio Projects
 
+### Completed Labs
+
+- [Intel DSA Browser Permission Test](projects/intel-dsa-permission-test/) — Used a controlled block/allow test to determine whether Intel Driver & Support Assistant requires browser access to its local service. Documented the results, least-privilege implications, sanitized evidence, and Security+/CySA+ skill alignment.
+
+### Planned and Developing Projects
+
 Planned and developing projects include:
 
 - Home SOC Lab
