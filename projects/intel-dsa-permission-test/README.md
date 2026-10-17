@@ -127,7 +127,7 @@ Only sanitized derivatives should be stored in the public repository.
 | E4 | [`04a-blocked-apps-on-device-sanitized.png`](evidence/04a-blocked-apps-on-device-sanitized.png) | Confirms the blocked test condition |
 | E5 | [`04b-allowed-apps-on-device-sanitized.png`](evidence/04b-allowed-apps-on-device-sanitized.png) | Confirms the temporary allowed condition |
 | E6 | [`05-scan-success-sanitized.png`](evidence/05-scan-success-sanitized.png) | Records the successful scan and green status |
-| E7 | `06-final-ask-setting-sanitized.png` | Recommended evidence showing the final **Apps on device: Ask** state |
+| E7 | [`06-final-ask-setting-sanitized.png`](evidence/06-final-ask-setting-sanitized.png) | Recommended evidence showing the final **Apps on device: Ask** state |
 
 ## Limitations
 
