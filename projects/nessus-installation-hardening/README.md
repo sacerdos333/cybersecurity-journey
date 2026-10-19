@@ -84,6 +84,7 @@ uname -m
 systemd-detect-virt
 systemctl is-system-running
 ```
+![Ubuntu environment verification showing Ubuntu 22.04.5 LTS, x86_64 architecture, WSL, and running systemd](evidence/01-environment-verification.png)
 
 The commands confirmed Ubuntu 22.04.5 LTS, an x86_64 architecture, WSL virtualization, and an operational systemd environment.
 
@@ -441,7 +442,7 @@ Planned evidence includes:
 
 | Evidence file | Description |
 |---|---|
-| `01-environment-verification.png` | Ubuntu version, architecture, and WSL validation |
+| [01-environment-verification.png](evidence/01-environment-verification.png) | Ubuntu version, architecture, and WSL validation |
 | `02-installer-integrity.png` | SHA-256 package integrity verification |
 | `03-service-validation.png` | Successful Nessus service initialization |
 | `04-listener-hardening.png` | Nessus management listener bound to loopback |
