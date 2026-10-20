@@ -367,8 +367,13 @@ After establishing the user-scoped CA trust relationship and reopening Chrome, I
 ```text
 https://localhost:8834
 ```
-
 without the previous certificate-authority warning.
+
+**Evidence 07 — HTTPS Certificate Trust Validation**
+
+![Evidence 07 - HTTPS Certificate Trust Before and After](evidence/07-https-validation.png)
+
+*Figure 7. Before-and-after validation of the Nessus HTTPS management interface. Initially, Chrome rejected the site with `NET::ERR_CERT_AUTHORITY_INVALID` because the certificate authority was not trusted. After importing the local CA into Windows and reloading the Nessus dashboard, Chrome reported that the connection to `localhost:8834` was secure.*
 
 **Result:** Chrome accepted the configured certificate chain, and the Nessus management dashboard remained accessible.
 
