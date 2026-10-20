@@ -6,7 +6,7 @@ In this lab, I installed and configured Tenable Nessus Essentials Plus on an Ubu
 
 My initial objective was to create a vulnerability scanning environment that I could use while studying CompTIA CySA+ and completing Hack The Box training modules.
 
-During installation, I identified opportunities to improve the security of the Nessus management interface. I expanded the exercise to include software integrity verification, Linux service administration, network exposure reduction, Public Key Infrastructure (PKI), certificate management, and TLS authentication.
+During installation, I identified opportunities to improve the security of the Nessus management interface. I expanded the exercise to include software integrity verification, Linux service administration, network exposure reduction, public key infrastructure (PKI), certificate management, and TLS authentication.
 
 By the end of the exercise, I had successfully:
 
@@ -184,7 +184,7 @@ sudo /opt/nessus/sbin/nessuscli fix --set listen_address=127.0.0.1
 sudo systemctl restart nessusd
 ```
 
-After restarting the service, I verified that Nessus was listening on:
+After restarting the service, I verified that Nessus was listening only on 127.0.0.1:8834.
 
 **Evidence 04 — Listener Hardening Verification**
 
@@ -216,14 +216,7 @@ echo | openssl s_client \
   -noout -subject -issuer -dates \
   -fingerprint -sha256
 ```
-
 My investigation established that the original server certificate was issued by a private Nessus Certificate Authority and identified the workstation hostname rather than `localhost`.
-
-**Evidence 05 — PKI Certificate Validation**
-
-![Evidence 05 - PKI Certificate Chain and SAN Validation](evidence/05-pki-validation.png)
-
-*Figure 5. OpenSSL validation demonstrating that the custom Nessus server certificate was signed by the local certificate authority, passed certificate-chain and hostname verification, and included the required Subject Alternative Name values for `localhost` and `127.0.0.1`.*
 
 A separate inspection did not reveal a Subject Alternative Name extension.
 
@@ -244,7 +237,7 @@ sudo install -d -m 700 /root/nessus-cert-backup
 
 I backed up the existing CA certificate, server certificate, and their associated private keys.
 
-I assigned permission `600` to the backup files.
+I set the backup-file permissions to 600.
 
 During this process, I encountered a Bash wildcard-expansion issue when attempting to change permissions on files under `/root` from my ordinary user shell.
 
@@ -314,6 +307,12 @@ DNS:localhost, IP Address:127.0.0.1
 ```
 
 **Result:** The replacement certificate passed chain, purpose, and hostname verification against my local CA.
+
+**Evidence 05 — PKI Certificate Validation**
+
+![Evidence 05 - PKI Certificate Chain and SAN Validation](evidence/05-pki-validation.png)
+
+*Figure 5. OpenSSL validation demonstrating that the custom Nessus server certificate was signed by the local certificate authority, passed certificate-chain and hostname verification, and included the required Subject Alternative Name values for `localhost` and `127.0.0.1`.*
 
 ### Phase 9 — Import the Replacement Certificate
 
@@ -464,21 +463,21 @@ The Nessus scanner is now prepared for future vulnerability management exercises
 
 ## 9. Evidence and Public Disclosure Controls
 
-Supporting screenshots will be stored in the `evidence/` directory after review and sanitization.
+Sanitized supporting screenshots are stored in the evidence/ directory.
 
-Planned evidence includes:
+The completed evidence set includes:
 
 | Evidence file | Description |
 |---|---|
 | [01-environment-verification.png](evidence/01-environment-verification.png) | Ubuntu version, architecture, and WSL validation |
-| `02-installer-integrity.png` | SHA-256 package integrity verification |
-| `03-service-validation.png` | Successful Nessus service initialization |
-| `04-listener-hardening.png` | Nessus management listener bound to loopback |
-| `05-pki-validation.png` | Certificate-chain and SAN verification |
-| `06-certificate-import.png` | Successful Nessus certificate import |
-| `07-https-validation.png` | Final Nessus dashboard without the Chrome certificate warning |
+| [02-installer-integrity.png](evidence/02-installer-integrity.png) | SHA-256 package integrity verification |
+| [03-service-validation.png](evidence/03-service-validation.png) | Successful Nessus service initialization |
+| [04-listener-hardening.png](evidence/04-listener-hardening.png) | Nessus management listener bound to loopback |
+| [05-pki-validation.png](evidence/05-pki-validation.png) | Certificate-chain and SAN verification |
+| [06-certificate-import.png](evidence/06-certificate-import.png) | Successful Nessus certificate import |
+| [07-https-validation.png](evidence/07-https-validation.png) | Final Nessus dashboard without the Chrome certificate warning |
 
-I will exclude the following from the public repository:
+The following information is excluded from the public repository:
 
 - License activation codes and registration references.
 - Passwords, tokens, session identifiers, and authentication material.
@@ -487,7 +486,7 @@ I will exclude the following from the public repository:
 - Screenshots containing security-sensitive information that has not been sanitized.
 - Complete private network topology or detailed configuration information unnecessary to demonstrate the lab.
 
-No cryptographic private keys will be committed.
+No cryptographic private keys are included in this repository.
 
 ## 10. Next Steps
 
@@ -506,7 +505,7 @@ The next exercise will focus on the vulnerability assessment workflow:
 - [Tenable Nessus Documentation](https://docs.tenable.com/nessus/)
 - [OpenSSL Documentation](https://docs.openssl.org/)
 - [Microsoft WSL Documentation](https://learn.microsoft.com/en-us/windows/wsl/)
-- [Microsoft Certificate Management Documentation](https://learn.microsoft.com/en-us/windows/)
+- [Local Machine and Current User Certificate Stores](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/local-machine-and-current-user-certificate-stores)
 
 ---
 
