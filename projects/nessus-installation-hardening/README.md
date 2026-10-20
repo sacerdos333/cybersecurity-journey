@@ -84,9 +84,11 @@ uname -m
 systemd-detect-virt
 systemctl is-system-running
 ```
-![Ubuntu environment verification showing Ubuntu 22.04.5 LTS, x86_64 architecture, WSL, and running systemd](evidence/01-environment-verification.png)
+**Evidence 01 — Ubuntu Environment Verification**
 
-The commands confirmed Ubuntu 22.04.5 LTS, an x86_64 architecture, WSL virtualization, and an operational systemd environment.
+![Evidence 01 - Ubuntu Environment Verification](evidence/01-environment-verification.png)
+
+*Figure 1. Ubuntu environment verification confirming Ubuntu 22.04.5 LTS, x86_64 architecture, WSL virtualization, and an operational systemd service manager.*
 
 **Result:** The Linux environment met the initial requirements for attempting the Nessus deployment.
 
@@ -116,7 +118,11 @@ sha256sum Nessus-10.12.5-ubuntu1604_amd64.deb
 
 I independently obtained the expected checksum through Tenable's official download page.
 
-**Finding:** The locally calculated SHA-256 hash matched the vendor-published value exactly.
+**Evidence 02 — SHA-256 Installer Integrity Verification**
+
+![Evidence 02 - Nessus SHA-256 Installer Integrity Verification](evidence/02-installer-integrity.png)
+
+*Figure 2. SHA-256 checksum generated in Ubuntu compared with the vendor-published SHA-256 checksum obtained from Tenable's official download page. Both values matched exactly.*
 
 This provided evidence that the downloaded package matched the vendor's published checksum. I recognized that checksum verification is an integrity control and does not, by itself, constitute malware analysis.
 
