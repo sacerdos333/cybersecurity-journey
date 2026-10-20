@@ -332,6 +332,12 @@ I restarted Nessus and verified that the service was active.
 
 I then connected to TCP 8834 using OpenSSL and confirmed that the running service presented the newly generated certificate with the intended subject, issuer, and SAN values.
 
+**Evidence 06 — Certificate Import and Deployment Validation**
+
+![Evidence 06 - Certificate Import and Deployment Validation](evidence/06-certificate-import.png)
+
+*Figure 6. Validation showing successful import of the custom certificate into Nessus, successful service restart, active service status, and confirmation that the live Nessus HTTPS service presented the new certificate issued by the Nessus Local Lab CA with the expected Subject Alternative Name values.*
+
 ### Phase 10 — Configure Certificate Trust in Windows
 
 I exported only the public server certificate and CA certificate to Windows.
