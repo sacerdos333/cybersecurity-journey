@@ -219,6 +219,12 @@ echo | openssl s_client \
 
 My investigation established that the original server certificate was issued by a private Nessus Certificate Authority and identified the workstation hostname rather than `localhost`.
 
+**Evidence 05 — PKI Certificate Validation**
+
+![Evidence 05 - PKI Certificate Chain and SAN Validation](evidence/05-pki-validation.png)
+
+*Figure 5. OpenSSL validation demonstrating that the custom Nessus server certificate was signed by the local certificate authority, passed certificate-chain and hostname verification, and included the required Subject Alternative Name values for `localhost` and `127.0.0.1`.*
+
 A separate inspection did not reveal a Subject Alternative Name extension.
 
 I concluded that two certificate requirements needed attention:
