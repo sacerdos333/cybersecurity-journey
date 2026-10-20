@@ -142,8 +142,11 @@ I started the scanner and checked its status:
 sudo systemctl start nessusd
 systemctl status nessusd --no-pager
 ```
+**Evidence 03 — Nessus Service Validation**
 
-**Result:** `nessusd.service` reported `active (running)`.
+![Evidence 03 - Nessus Service Validation](evidence/03-service-validation.png)
+
+*Figure 3. Systemd verification showing the Nessus service loaded, enabled, and actively running in Ubuntu WSL2 following installation and plugin initialization.*
 
 I also investigated a nonfatal APT warning indicating that the `_apt` sandbox account could not access the installation package in my home directory. The package had been installed successfully using elevated privileges.
 
@@ -183,9 +186,11 @@ sudo systemctl restart nessusd
 
 After restarting the service, I verified that Nessus was listening on:
 
-```text
-127.0.0.1:8834
-```
+**Evidence 04 — Listener Hardening Verification**
+
+![Evidence 04 - Listener Hardening Verification](evidence/04-listener-hardening.png)
+
+*Figure 4. Validation showing that the Nessus management interface was restricted to the IPv4 loopback address (`127.0.0.1:8834`) and that the configured `listen_address` value was set to `127.0.0.1`.*
 
 I also confirmed that Chrome on the Windows host could still reach and authenticate to the Nessus web interface.
 
